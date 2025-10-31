@@ -11,21 +11,27 @@ Hi all, and welcome to the repository specifically created for day 5 of the ASSA
 - If Docker Desktop tells you that WSL needs updating, please click Restart.
   - If this doesn’t work for some reason, open your favourite command window and run
 
-        wsl --update
+```
+wsl --update
+```
 
   - Once you see something like the image below, Docker is running and you can continue with the step 2.
 
-    <img width="1384" height="834" alt="docker" src="https://github.com/user-attachments/assets/90cdb036-374f-4cd4-ad04-e0fd372403b8" />
+<img width="1384" height="834" alt="docker" src="https://github.com/user-attachments/assets/90cdb036-374f-4cd4-ad04-e0fd372403b8" />
 
 2. Open your favourite command window
 
 - Navigate to this repository:
 
-       cd <your/path/to/DockerCHORAS>
+```shell
+cd <your/path/to/DockerCHORAS>
+```
 
 - Run:
 
-      docker compose up
+```shell
+docker compose up
+```
 
 3. Once the process is done, navigate to [http://localhost:5173](http://localhost:5173)
 
