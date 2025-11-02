@@ -4,7 +4,7 @@ Hi all, and welcome to the repository specifically created for day 5 of the ASSA
 
 ## Setup
 
-Follow the steps in the [setup_instructions](./setup_instructions.md) file before continuing.
+Follow the steps in [setup_instructions](./setup_instructions.md) to install and run CHORAS.
 
 ## Task
 
