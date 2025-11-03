@@ -2,7 +2,7 @@
 
 **(please note that your computer might restart during this process)**
 
-1. Download [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+1. Download [Docker Desktop](https://www.docker.com/products/docker-desktop/) (if you have installed this already, you can continue to step 2)
 
   _(If you’re on Windows and you’re unsure whether you need amd64 or arm64, go to Settings → System → About. It will say "x64-based processor" for AMD, or "ARM-based processor" for an ARM chip.)_
 
@@ -25,7 +25,7 @@ wsl --update
 - Navigate to this repository:
 
 ```shell
-cd <your/path/to/DockerCHORAS>
+cd <your/path/to/ASSA_Hackathon>
 ```
 
 - Run:
