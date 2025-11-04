@@ -24,16 +24,16 @@ Create a new repository in the [choras-org GitHub organisation](https://github.c
 
 The repository should contain the following:
 
-&nbsp;&nbsp;&nbsp;&nbsp;🎧  **Impulse response** from DE (.wav)
+1. 🎧  **Impulse response** from DE (.wav)
 
-&nbsp;&nbsp;&nbsp;&nbsp;📊  **T30** results from DE in (.csv)
+2. 📊  **T30** results from DE in (.csv)
 
-&nbsp;&nbsp;&nbsp;&nbsp;5️⃣  Frequencies of **first 5 modes** in (.csv)
+3. 5️⃣  Frequencies of **first 5 modes** in (.csv)
 
-&nbsp;&nbsp;&nbsp;&nbsp;🫱🏻‍🫲🏾  Document (.pdf / .docx) with:
+4. 🫱🏻‍🫲🏾  Document (.pdf / .docx) with:
 
-- **3 proposals** for improving CHORAS (out of the box)
-- Functionality **issues** you found
+  - **3 proposals** for improving CHORAS (out of the box)
+  - Functionality **issues** you found
 
 ## Evaluation
 
@@ -41,11 +41,11 @@ How do we decide who is closest?
 
 🎙️  At the end of the day we'll do an IR measurement which will be compared to your simulation
 
-&nbsp;&nbsp;&nbsp;&nbsp;🧮  DE IR: **RMS** of the T30 of your simulation vs. measurement
+- 🧮  DE IR: **RMS** of the T30 of your simulation vs. measurement
 
-&nbsp;&nbsp;&nbsp;&nbsp;🙋‍♀️  DE IR: silent disco headsets + **your votes**!
+- 🙋‍♀️  DE IR: silent disco headsets + **your votes**!
 
-&nbsp;&nbsp;&nbsp;&nbsp;🧮  DG modes: **RMS** of your frequencies vs. our measurement
+- 🧮  DG modes: **RMS** of your frequencies vs. our measurement
 
 ## Useful links
 
