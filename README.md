@@ -12,7 +12,7 @@ Your task is to model *this* room (yes -- the one you are currently in :) )
 
 🎙️ Later today we'll do a measurement and your goal is to set up a simulation which is as close as possible to the measurement! 
 
-🏠 We provide two geometries
+🏠 We provide two geometries (can also be found in the CHORAS repository so you don't have to clone this one :))
 - this room simplified to a shoebox [(./Geometries/Room2215_simple.obj)](./Geometries/Room2215_simple.obj)
 - the same but with the acoustic ceiling [(./Geometries/Room2215_withAbs.obj)](./Geometries/Room2215_withAbs.obj)
 
