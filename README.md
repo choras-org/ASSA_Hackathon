@@ -56,4 +56,3 @@ How do we decide who is closest?
 
 - [CHORAS main repo](https://github.com/choras-org/choras)
 - [Absorption coefficients](https://www.acoustic.ua/st/web_absorption_data_eng.pdf)
-- [Geometries](./Geometries/)
