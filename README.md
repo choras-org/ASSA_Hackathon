@@ -46,7 +46,7 @@ How do we decide who is closest?
 
 🎙️  At the end of the day we'll do an IR measurement which will be compared to your simulation
 
-- 🧮  DE IR: **RMS** of the T30 of your simulation vs. measurement
+- 🧮  DE+DG IR: **RMS** of the T30 of your simulation vs. measurement
 
 - 🙋‍♀️  DE IR: silent disco headsets + **your votes**!
 
