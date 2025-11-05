@@ -8,7 +8,7 @@
 
 ## Task
 
-Your task is to model *this* room (yes -- the one you are currently in :) )
+Your task today is to simulate *this* room (yes -- the one you are currently in :) )
 
 🎙️ Later today at 4pm we'll do a measurement and your goal is to set up a simulation which is as close as possible to the measurement! 
 
