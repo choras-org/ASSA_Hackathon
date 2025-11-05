@@ -1,6 +1,6 @@
 # CHORAS ASSA Workshop
 
-👋 Hi all, and welcome to the repository specifically created for day 5 of the ASSA Open Research Software school! This readme contains information on the workshop.
+👋 Hi all, and welcome to the repository specifically created for day 5 of the ASSA Open Research Software school! This document contains information on the workshop.
 
 ## Setup
 
