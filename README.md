@@ -10,29 +10,34 @@
 
 Your task is to model *this* room (yes -- the one you are currently in :) )
 
-🎙️ Later today we'll do a measurement and your goal is to set up a simulation which is as close as possible to the measurement! 
+🎙️ Later today at 4pm we'll do a measurement and your goal is to set up a simulation which is as close as possible to the measurement! 
 
 🏠 We provide two geometries (can also be found in the CHORAS repository so you don't have to clone this one :))
 - this room simplified to a shoebox [(./Geometries/Room2215_simple.obj)](./Geometries/Room2215_simple.obj)
 - the same but with the acoustic ceiling [(./Geometries/Room2215_withAbs.obj)](./Geometries/Room2215_withAbs.obj)
 
-Your job is to tweak the settings such that you get as close as possible to the measurement.
+Your job is to use settings (such as material properties and settings in the methods used) such that you expect to get as close as possible to the measurement results. 
+Note that settings in the methodology affect calculation time: Initially compromise calculation time over accuracy when making choices in the settings.
+
+A second goal of today is to collect your feedback and ideas on this collaborative platform!
 
 ## Deliverables
 
 Create a new repository in the [choras-org GitHub organisation](https://github.com/choras-org/). The name should be your **team name** :)
 
-The repository should contain the following:
+At the end of the day (4pm), the repository should contain the following:
 
 1. 🎧  **Impulse response** from DE (.wav)
 
 2. 📊  **T30** results from DE in (.csv)
 
-3. 5️⃣  Frequencies of **first 5 modes** in (.csv)
+3. 5️⃣  Frequencies of **first 5 modes** from DG in (.csv)
 
-4. 🫱🏻‍🫲🏾  Document (.pdf / .docx) with:
+4. 📊   **T30** results from DG (up to the 250Hz band) in (.csv) as calculated with pyfar 
 
-    - **3 proposals** for improving CHORAS (out of the box)
+5. 🫱🏻‍🫲🏾  Document (.pdf / .docx) with:
+
+    - **3 proposals** for improving CHORAS (out of the box ideas are welcome!)
     - Functionality **issues** you found
 
 ## Evaluation
@@ -41,7 +46,7 @@ How do we decide who is closest?
 
 🎙️  At the end of the day we'll do an IR measurement which will be compared to your simulation
 
-- 🧮  DE IR: **RMS** of the T30 of your simulation vs. measurement
+- 🧮  DE+DG IR: **RMS** of the T30 of your simulation vs. measurement
 
 - 🙋‍♀️  DE IR: silent disco headsets + **your votes**!
 
