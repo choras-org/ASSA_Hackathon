@@ -8,7 +8,7 @@
 
 ## Schedule
 
-| Time | Description | Location | Topic | Content |
+| Time | Description |
 | --- | --- | --- | --- | --- |
 | now - 12:00 | Work on task | 
 | 12:00 - 12:20 |  Check-in round: where is everyone? | 
