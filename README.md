@@ -34,9 +34,16 @@ A second goal of today is to collect your feedback and ideas on this collaborati
 
 ## Deliverables
 
-Create a new repository in the [choras-org GitHub organisation](https://github.com/choras-org/). The name should be your **team name** :)
+Use the [template repository](https://github.com/choras-org/your_team_name) to create a new repository in the [choras-org GitHub organisation](https://github.com/choras-org/).
 
-At the end of the day (4pm), the repository should contain the following:
+1. Go to the [template repository](https://github.com/choras-org/your_team_name).
+2. Click on Use this template -> Create new repository
+   
+<img width="379" height="194" alt="Screenshot 2025-11-06 at 15 22 30" src="https://github.com/user-attachments/assets/bdf29673-84f5-457c-a04f-7a4f157cef22" />
+
+3. Make sure that the Owner is choras-org. (If you don't see this in the dropdown, tell us, then we'll add you to the organisation).
+   
+At the end of the day (4pm), this repository should contain the following:
 
 1. 🎧  **Impulse response** from DE (.wav)
 
