@@ -6,6 +6,17 @@
 
 🐒  Clone the [CHORAS repository](https://github.com/choras-org/choras) and follow the steps in the readme to install and run CHORAS.
 
+## Schedule
+
+| Time | Description | Location | Topic | Content |
+| --- | --- | --- | --- | --- |
+| now - 12:00 | Work on task | 
+| 12:00 - 12:20 |  Check-in round: where is everyone? | 
+| 12:20 - 13:30 | Lunch |
+| 13:30 - 16:00 | Work on task |
+| around 16:00 | IR measurement |
+| 16:00 - 17:00 | Presentations |
+
 ## Task
 
 Your task today is to simulate *this* room (yes -- the one you are currently in :) )
@@ -35,7 +46,7 @@ At the end of the day (4pm), the repository should contain the following:
 
 4. 📊   **T30** results from DG (up to the 250Hz band) in (.csv) as calculated with pyfar 
 
-5. 🫱🏻‍🫲🏾  Document (.pdf / .docx) with:
+5. 🫱🏻‍🫲🏾  Readme with:
 
     - **3 proposals** for improving CHORAS (out of the box ideas are welcome!)
     - Functionality **issues** you found
