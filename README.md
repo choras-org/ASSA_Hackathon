@@ -9,7 +9,7 @@
 ## Schedule
 
 | Time | Description |
-| --- | --- | --- | --- | --- |
+| --- | --- |
 | now - 12:00 | Work on task | 
 | 12:00 - 12:20 |  Check-in round: where is everyone? | 
 | 12:20 - 13:30 | Lunch |
