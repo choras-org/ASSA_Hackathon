@@ -34,7 +34,7 @@ A second goal of today is to collect your feedback and ideas on this collaborati
 
 ## Deliverables
 
-Use the [your_team_name](https://github.com/choras-org/your_team_name) to create a new repository in the [choras-org GitHub organisation](https://github.com/choras-org/).
+Use the template repository to create a new repository in the [choras-org GitHub organisation](https://github.com/choras-org/).
 
 1. Go to the [your_team_name template repository](https://github.com/choras-org/your_team_name).
 2. Click on Use this template -> Create new repository
