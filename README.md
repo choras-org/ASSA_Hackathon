@@ -51,12 +51,12 @@ At the end of the day (4pm), this repository should contain the following:
 
 3. 5️⃣  Frequencies of **first 5 modes** from DG in (.csv)
 
-4. 📊   **T30** results from DG (up to the 250Hz band) in (.csv) as calculated with pyfar 
+4. 📊  **T30** results from DG (up to the 250Hz band) in (.csv) as calculated with pyfar 
 
 5. 🫱🏻‍🫲🏾  Readme with:
-
-    - **3 proposals** for improving CHORAS (out of the box ideas are welcome!)
-    - Functionality **issues** you found
+  - The input settings you used
+  - **3 proposals** for improving CHORAS (out of the box ideas are welcome!)
+  - Functionality **issues** you found
 
 ## Evaluation
 
@@ -73,4 +73,5 @@ How do we decide who is closest?
 ## Useful links
 
 - [CHORAS main repo](https://github.com/choras-org/choras)
+- [your_team_name](https://github.com/choras-org/your_team_name) (deliverables template)
 - [Absorption coefficients](https://www.acoustic.ua/st/web_absorption_data_eng.pdf)
